@@ -14,6 +14,6 @@ public class snack1 {
             System.out.println("Il numero inserito è dispari: " + numero);
             System.out.println("Il numero successivo è: " + (numero + 1));
         }
-
+        //SASSONE 🗿
     }
 }

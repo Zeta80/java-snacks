@@ -15,6 +15,7 @@ public class snack2 {
             System.out.println(nomeCasuale + " " + cognomeCasuale);
         }
     }
+    //SNACKSSONE 🗿🎂
 }
 
 
